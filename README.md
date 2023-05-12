@@ -1,4 +1,3 @@
-# QA-Victor-Martinez
 # Victor Martinez - Portfólio de Automação de Testes
 
 Bem-vindo ao meu portfólio de automação de testes! Neste repositório, você encontrará uma coleção de projetos e exemplos que demonstram minha experiência em testes automatizados e minha habilidade em utilizar diversas tecnologias e ferramentas.
