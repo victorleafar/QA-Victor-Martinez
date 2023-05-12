@@ -24,7 +24,7 @@ Aqui estão alguns dos projetos destacados neste repositório:
 Caso queira entrar em contato comigo para discutir oportunidades de trabalho, colaborações ou qualquer outra questão relacionada a testes de software e automação, você pode me encontrar nas seguintes plataformas:
 
 - LinkedIn: [Victor Martinez](https://www.linkedin.com/in/victorleafar/)
-- E-mail: [victormartinezrcgmail.com]
+- E-mail: [victormartinezrc@gmail.com]
 
 Fique à vontade para me contatar. Estou ansioso para trocar ideias e colaborar com você!
 
