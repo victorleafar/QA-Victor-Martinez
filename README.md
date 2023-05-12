@@ -19,4 +19,10 @@ Aqui estão alguns dos projetos destacados neste repositório:
 3. **Testes de Regressão com Cypress**: Demonstração de casos de teste automatizados de regressão utilizando o framework Cypress. Os testes garantem a integridade das funcionalidades existentes após as atualizações e alterações no código.
 
 ## Contato
+Caso queira entrar em contato comigo para discutir oportunidades de trabalho, colaborações ou qualquer outra questão relacionada a testes de software e automação, você pode me encontrar nas seguintes plataformas:
+
+- LinkedIn: [Victor Martinez](https://www.linkedin.com/in/victorleafar/)
+- E-mail: [victormartinezrcgmail.com]
+
+Fique à vontade para me contatar. Estou ansioso para trocar ideias e colaborar com você!
 
